@@ -7,6 +7,7 @@
 
 ### Functional Programming
 - [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+- [Learn Pure Functions In 10 Minutes](https://www.youtube.com/watch?v=fYbhD_KMCOg)
 
 ### Zod
 - [Learn Zod In 30 Minutes](https://www.youtube.com/watch?v=L6BE-U3oy80)
