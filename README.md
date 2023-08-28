@@ -1,4 +1,4 @@
-# react-next-ts-learning-path
+# learning-path
 
 ### JavaScript
 - [How To Learn JavaScript In 2023 - From Zero To Mid-Level Developer](https://www.youtube.com/watch?v=7L2RLBmEJmE)
