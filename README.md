@@ -1,5 +1,3 @@
-# learning-path
-
 ## Core
 
 ### JavaScript
